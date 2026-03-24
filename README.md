@@ -64,7 +64,7 @@ Foi aplicada normalização **apenas nos dados de treino** para evitar **data le
 ### Performance dos modelos
 
 - Regressão Linear: **99.89% R²**
-- MLPRegressor: **98.88% R²**
+- MLPRegressor: **82.52% R²**
 
 ---
 
@@ -101,7 +101,12 @@ Foi aplicada normalização **apenas nos dados de treino** para evitar **data le
 
 ## ▶️ Como executar
 
+### 💻 Executar localmente
 ```bash
 pip install -r requirements.txt
 python code_prediction.py
-python3 code_prediction.py
+```
+
+### ☁️ Ou executar no Google Colab (sem instalar nada)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TvD0HFv06HEmkv2oMlJfPnLswj-crnok?usp=sharing)
