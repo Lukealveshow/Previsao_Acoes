@@ -107,4 +107,5 @@ Foi aplicada normalização **apenas nos dados de treino** para evitar **data le
 pip install -r requirements.txt
 python code_prediction.py
 ☁️ Ou executar no Google Colab (sem instalar nada)
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TvD0HFv06HEmkv2oMlJfPnLswj-crnok?usp=sharing)
