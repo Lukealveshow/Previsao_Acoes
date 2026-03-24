@@ -101,7 +101,9 @@ Foi aplicada normalização **apenas nos dados de treino** para evitar **data le
 
 ## ▶️ Como executar
 
+### 💻 Executar localmente
+
 ```bash
 pip install -r requirements.txt
 python code_prediction.py
-python3 code_prediction.py
+☁️ Ou executar no Google Colab (sem instalar nada)
