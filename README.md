@@ -64,7 +64,7 @@ Foi aplicada normalização **apenas nos dados de treino** para evitar **data le
 ### Performance dos modelos
 
 - Regressão Linear: **99.89% R²**
-- MLPRegressor: **98.88% R²**
+- MLPRegressor: **82.52% R²**
 
 ---
 
